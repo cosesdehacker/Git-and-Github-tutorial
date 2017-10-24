@@ -13,3 +13,43 @@ Branch = something you use to work on different stuff without interfering on th 
 pull request and merge = take some changes from a branch and add them to another branch / if the branch (B1) you want to integrate the new part (B2) is not yours, you will send the owner of B1 a pull request, which says "Hey! Would you like to pull my piece of work?".
 
 Fork = taking an entire repo as it is and copying it into another account so that you can work on it independently. Later, if you want to merge your work (or parts of your work) with the original one, you will send the owner of the original one a pull request.
+.............
+commands inux
+
+cd = change directory (=double click on a folder)
+pwd (=print working directory) = show me what directory I am in
+ls = lists the content of the current working directory
+clear = clear the screen
+open . = show the current folder/file in its folder
+open(space)name-of-a-folder/file = show the this file/folder in its folder
+
+up arrow = shows you different options of command you have used before
+.......
+INFORMATION YOU GET WHEN YOU CONNECT GIT TO YOUR TERMINAL:
+<<The most commonly used git commands are:
+   add        Add file contents to the index
+   bisect     Find by binary search the change that introduced a bug
+   branch     List, create, or delete branches
+   checkout   Checkout a branch or paths to the working tree
+   clone      Clone a repository into a new directory
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   fetch      Download objects and refs from another repository
+   grep       Print lines matching a pattern
+   init       Create an empty Git repository or reinitialize an existing one
+   log        Show commit logs
+   merge      Join two or more development histories together
+   mv         Move or rename a file, a directory, or a symlink
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+   rebase     Forward-port local commits to the updated upstream head
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+   show       Show various types of objects
+   status     Show the working tree status
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+'git help -a' and 'git help -g' lists available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.>>
+
