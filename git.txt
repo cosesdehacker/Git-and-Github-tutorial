@@ -4,3 +4,5 @@ Github = web service - social collaboration for projects made with Git
 Repository (=repo) = Git project
 
 Commit = save the version
+
+Commit hash = long number which is the unique identifier for your project
