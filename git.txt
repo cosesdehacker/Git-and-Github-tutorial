@@ -53,3 +53,10 @@ INFORMATION YOU GET WHEN YOU CONNECT GIT TO YOUR TERMINAL:
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.>>
 
+.....
+COMMANDS I'VE PLAYED WITH
+git clone
+git status -a -m "blablabla" (-a stands for 'all kind of changes', and -m stands for 'message, when I want to write a message attached to the command -the message will be between "" ')
+
+TIP! When you cannot go on saying commands to the terminal, you can always type :q and it will 'let you out'
+
