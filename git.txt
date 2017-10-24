@@ -6,3 +6,6 @@ Repository (=repo) = Git project
 Commit = save the version
 
 Commit hash = long number which is the unique identifier for your commit
+
+Master branch = root of my "tree of changes"
+Branch = something you use to work on different stuff without interfering on th main branch
