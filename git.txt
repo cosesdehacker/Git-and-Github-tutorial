@@ -10,4 +10,6 @@ Commit hash = long number which is the unique identifier for your commit
 Master branch = root of my "tree of changes"
 Branch = something you use to work on different stuff without interfering on th main branch
 
-pull request and merge = take some changes from a branch and add them to another branch
+pull request and merge = take some changes from a branch and add them to another branch / if the branch (B1) you want to integrate the new part (B2) is not yours, you will send the owner of B1 a pull request, which says "Hey! Would you like to pull my piece of work?".
+
+Fork = taking an entire repo as it is and copying it into another account so that you can work on it independently. Later, if you want to merge your work (or parts of your work) with the original one, you will send the owner of the original one a pull request.
