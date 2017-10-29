@@ -62,7 +62,7 @@ TIP! When you cannot go on saying commands to the terminal, you can always type 
 .....
 If I have worked with my computer and I want to push the changes into the github, what I will do is:
 (terminal)
-git init (i arrossego la carpeta que vull convertir en repository)
+git init (i arrossego la carpeta del meu ordinador que vull convertir en repository)
 git status (per veure quins arxius hi ha dins la carpeta que no estan afegits al repositori)
 git add (i el fitxer, per incloure els fitxers al repositori)
 got to Github and create a new repository WITHOUT README
