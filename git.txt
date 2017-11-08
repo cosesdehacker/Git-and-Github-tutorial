@@ -66,8 +66,8 @@ git init (i arrossego la carpeta del meu ordinador que vull convertir en reposit
 git status (per veure quins arxius hi ha dins la carpeta que no estan afegits al repositori)
 git add (i el fitxer, per incloure els fitxers al repositori)
 got to Github and create a new repository WITHOUT README
-(terminal) git add remote origin (i la URL del repository a Github)
-git push origin master
+(terminal) git remote add origin (i la URL del repository a Github)
+git push -u origin master
 (si no funciona, i dóna error: src refspec master does not match any.error: failed to push some refs to '/Users/nasrodo/IdeaProjects/food', provar git commit -m "initial commit" i després "git push origin master")
 
 ...
